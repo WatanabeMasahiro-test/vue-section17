@@ -119,8 +119,6 @@
     margin: 0 auto;
   }
 
-  .title-pre {
-  }
   .content-pre {
     word-break: break-all;
     white-space: pre;           /* CSS 2.0 */
